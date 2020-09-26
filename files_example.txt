@@ -1,0 +1,2 @@
+conteúdo para exemplo de abertura de arquivos externos.
+segunda linha do arquivo.
